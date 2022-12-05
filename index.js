@@ -1,7 +1,7 @@
 // 2. Create the player object. Give it two keys, name and chips, and set their values
 let player = {
     name : "Dinuka",
-    chips : 120
+    chips : 180
 }
 
 let cards = []
